@@ -1,1 +1,1 @@
-from namshi/smtp
+from tomcat
